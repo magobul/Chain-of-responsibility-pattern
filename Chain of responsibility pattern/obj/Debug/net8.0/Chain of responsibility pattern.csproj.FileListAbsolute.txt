@@ -1,0 +1,14 @@
+F:\миша\Chain of responsibility pattern\bin\Debug\net8.0\Chain of responsibility pattern.exe
+F:\миша\Chain of responsibility pattern\bin\Debug\net8.0\Chain of responsibility pattern.deps.json
+F:\миша\Chain of responsibility pattern\bin\Debug\net8.0\Chain of responsibility pattern.runtimeconfig.json
+F:\миша\Chain of responsibility pattern\bin\Debug\net8.0\Chain of responsibility pattern.dll
+F:\миша\Chain of responsibility pattern\bin\Debug\net8.0\Chain of responsibility pattern.pdb
+F:\миша\Chain of responsibility pattern\obj\Debug\net8.0\Chain of responsibility pattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\миша\Chain of responsibility pattern\obj\Debug\net8.0\Chain of responsibility pattern.AssemblyInfoInputs.cache
+F:\миша\Chain of responsibility pattern\obj\Debug\net8.0\Chain of responsibility pattern.AssemblyInfo.cs
+F:\миша\Chain of responsibility pattern\obj\Debug\net8.0\Chain of responsibility pattern.csproj.CoreCompileInputs.cache
+F:\миша\Chain of responsibility pattern\obj\Debug\net8.0\Chain of responsibility pattern.dll
+F:\миша\Chain of responsibility pattern\obj\Debug\net8.0\refint\Chain of responsibility pattern.dll
+F:\миша\Chain of responsibility pattern\obj\Debug\net8.0\Chain of responsibility pattern.pdb
+F:\миша\Chain of responsibility pattern\obj\Debug\net8.0\Chain of responsibility pattern.genruntimeconfig.cache
+F:\миша\Chain of responsibility pattern\obj\Debug\net8.0\ref\Chain of responsibility pattern.dll
